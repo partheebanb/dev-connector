@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://partheeban:380befaP...@paratacluster-duwih.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "yabbadabbadoo"
+}
